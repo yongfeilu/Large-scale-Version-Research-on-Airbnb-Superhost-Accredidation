@@ -1,5 +1,6 @@
-## For a complete research, please read ResearchPaper.pdf in the folder.
-# Introduction
+## For a complete research, please read ResearchPaper.pdf in the folder
+
+# Introduction (Initial Version)
 In recent years, a new form of economy, named 'sharing economy', unrolls swiftly via platforms like Airbnb. In 2009, the company launched the Superhost program to recognize the top-performing hosts who provides high-standard hosting that makes guests feel belonging anywhere. Since then, the Airbnb business has experienced a long, steady boom. Such a program has provided a great experiment for researchers to examine the external validity of signaling theory, first proposed by Michael Spence (1973) that educational credentials send information about the ability of job seekers, thus effectively helping employer distinguish highly talented workers from low ability ones. Due to Akerlof’s (1970) research on adverse selection, it has been widely acknowledged that in markets with severe information asymmetries, ‘bad’ goods can dominate the markets, dragging down the overall price. Considering the robust growth of Airbnb business, we are curious about whether superhosts indeed provides better accommodation service. Furthermore, how does such an accreditation benefit those top-performing hosts in the online rental market? Here, we explore Airbnb’s market in the United States.
 
 # Data
